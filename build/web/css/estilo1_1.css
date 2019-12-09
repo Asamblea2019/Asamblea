@@ -1,0 +1,17 @@
+
+#Contenedor-form
+{
+    width: 100%;
+    
+    background-color: white;
+    padding: 35px 45px 35px 50px;
+    margin: auto;
+    margin-top: 65px;
+    border-radius: 9px;
+    
+}
+
+@media (min-width: 1024px){
+    
+    
+}
